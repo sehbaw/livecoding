@@ -5,7 +5,7 @@
 # technologies
   - https://strudel.cc/
   - hydra.ojack.xyz
-  - 
+  - https://synesthesia.live/
 
 
 
